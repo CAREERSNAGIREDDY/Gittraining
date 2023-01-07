@@ -1,0 +1,7 @@
+git clone path
+ls
+cd GitTraining
+lstouch file
+lsgit status
+git add filegit commit -m "hai"
+git push
